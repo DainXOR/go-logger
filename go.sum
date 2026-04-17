@@ -1,5 +1,3 @@
-github.com/DainXOR/go-utils v0.0.0-20260416224335-4ac815ca8588 h1:9+LW5gk25YJjFsRO3oguf2q1CqwbOzOyBYpN56/XoCw=
-github.com/DainXOR/go-utils v0.0.0-20260416224335-4ac815ca8588/go.mod h1:cuKrDJEBulAm+Q1BJKvjAOT5ZE+LR/0EPD+fxWHb+Hs=
 github.com/DainXOR/go-utils v0.1.0 h1:1WpOAPnAGyq/PpMZs17/5BVnrrSi0IQMt3h4uCeTts4=
 github.com/DainXOR/go-utils v0.1.0/go.mod h1:cuKrDJEBulAm+Q1BJKvjAOT5ZE+LR/0EPD+fxWHb+Hs=
 github.com/joho/godotenv v1.5.1 h1:7eLL/+HRGLY0ldzfGMeQkb7vMd0as4CfYvUVzLqw0N0=
